@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP03</string>
+
+    <string name="my_condition">My condition today</string>
+    <string name="today_condition">오늘 나의\n컨디션은?</string>
+    <string name="good">it\'s good</string>
+    <string name="sign_up">심쿵 제작소 회원가입</string>
+</resources>
